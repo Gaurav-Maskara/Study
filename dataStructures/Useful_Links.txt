@@ -1,0 +1,8 @@
+
+
+1. Resume Maker : https://www.resumemaker.online/
+2. Resume Check List : https://github.com/aneagoie/resume-checklist
+3. Big O Notation : https://www.bigocheatsheet.com/
+4. Visual Algo : https://visualgo.net/en/list?slide=1
+5. Google Interview : https://www.youtube.com/watch?v=XKu_SEDAykw
+6. Sorting Animation : https://www.toptal.com/developers/sorting-algorithms
